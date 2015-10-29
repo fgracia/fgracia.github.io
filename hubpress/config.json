@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "fgracia",
-    "repositoryName": "fgracia.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"fgracia","repositoryName":"fgracia.github.io","branch":"master"},"site":{"title":"Freddou's blog","url":"https://fgracia.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//fgracia.github.io/themes/Casper"}}
